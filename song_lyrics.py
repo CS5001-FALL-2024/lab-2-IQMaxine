@@ -2,8 +2,9 @@
     CS 5001
     Lab 1
     Exercise 2
-    Name:
+    Name: Ikwo Ndiomu
 '''
+
 
 '''
 Choose 10 words of your favorite song lyrics (safe for work only please :)
@@ -12,7 +13,18 @@ lyric on one single line using print.
 '''
 
 def main():
-    # YOUR CODE HERE
+    j = str("Ladies")
+    i = str("and")
+    n = str("gentlemen")
+    x = str("of")
+    y = str("the")
+    o = str("class")
+    u = str("'99")
+    r = str(",")
+    a = str("wear")
+    t = str("sunscreen")
+
+    print(j,i,n,x,y,o,x,u,r,a,t)
 
 
 if __name__ == '__main__':
